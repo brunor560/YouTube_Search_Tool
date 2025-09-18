@@ -5,7 +5,7 @@ the topics. The user can also filter the videos based on the prefered language."
 import csv
 from googleapiclient.discovery import build
 
-key = "AIzaSyAlrWzwd9igLSSWEfehH4QSPs4XSbjdvHo"
+key = #ENTER YOUR OWN API KEY
 per_hashtag = 50        # maximum api call for YT is 50
 total = 100             # 100 is what we need for the challenge
 oFile = "educational_video_list.csv"
